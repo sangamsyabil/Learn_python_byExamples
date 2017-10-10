@@ -1,5 +1,5 @@
 # Code written by : Hem Raj Regmi (sangamsyabil@gmail.com) http://hemrajregmi.com
-
+# github repository: https://github.com/sangamsyabil/Learn_python_byExamples
 # Logging modules in python (example to solve a quadratic equation using logging)
 # Logging module purpose: record progresses and problems
 
